@@ -3,6 +3,7 @@ layout: post
 title:  "FileUploader MS Entities"
 date:   2020-10-17
 description: Describing the table contents.
+comments: true
 ---
 
 Following tables are part of [SpringApp-FileUploader](https://github.com/Someshbose/SpringApp) Microservice.
